@@ -6,4 +6,5 @@ I apply and add datetime conditions about created datetime and last modified dat
 After got all files, I gonna load those files to the bucket in GCP. 
 
 # Get Access Token From POSTMAN 
-In this project, I used POSTMAN. You choose Authorization field and select OAuth 2.0 than you fill about details of App Register from Azure and click 'Get New Access Token'.
+In this project, I used POSTMAN. You choose Authorization field and select OAuth 2.0 than you fill about details of App Register from Azure and click 'Get New Access Token'. The Example of POSTMAN is show below
+<img width="640" alt="image" src="https://user-images.githubusercontent.com/90255313/204963259-7190e29b-7930-48fb-8633-6a8bfdf7ea1c.png">
